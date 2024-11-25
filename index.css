@@ -1,0 +1,11 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#140DB4;
+    color:antiquewhite;
+}
+.animal{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 4px solid #FE9900;
+}
